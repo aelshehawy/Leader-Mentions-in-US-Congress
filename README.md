@@ -1,11 +1,8 @@
 # Leader-Mentions-in-US-Congress
 
-# Extract spelling variants for political actors
-
 ## Table of contents
 * [General info](#general-info)
 * [Requirements](#requirements)
-* [Setup](#setup)
 * [Usage](#usage)
 
 ## General info
@@ -24,9 +21,7 @@ The script requires the following Python libraries:
 * Levenshtein
 
 
-## Setup
-
-Information on how to install
+Information on how to install:
 
 * pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 * sklearn: https://scikit-learn.org/stable/install.html
@@ -35,14 +30,14 @@ Information on how to install
 	
 ## Usage
 
-### A Extraction of spelling variants for person names
+### A: Extraction of spelling variants for person names
 
 To extract name variants, run:
 
 	python extract_name_variants.py 
 
 
-### B Counting leader and country mentions in political speeches
+### B: Counting leader and country mentions in political speeches
 
 To count leader and country mentions, run:
 
