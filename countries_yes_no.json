@@ -1,0 +1,57 @@
+{
+    "South Korea": {
+        "yes": [
+            "Korea",
+            "South Korea",
+            "South Korean",
+            "South-Korea",
+            "South-Korean",
+            "South Koreans",
+            "South-Koreans"
+        ],
+        "no": ["North Korea","Democratic People's Republic of Korea"]
+    },
+    "Iran": {
+        "yes": [
+            "Iran",
+            "Iranian",
+            "Iranians",
+            "Persian",
+            "Persia",
+            "Islamic Republic of Iran"
+        ],
+        "no": []
+    },
+    "Israel": {
+        "yes": [
+            "Israel",
+            "Israeli",
+            "Israelis"
+        ],
+        "no": []
+    },
+    "Taiwan": {
+        "yes": [
+            "Taiwan",
+            "Republic of China",
+            "ROC",
+            "R.O.C.",
+            "Taiwanese"
+        ],
+        "no": []
+        },
+    "German Fed. Rep.": {
+        "yes": [
+	    "German Fed. Rep.",
+            "Federal Republic of Germany",
+            "German Federal Republic",
+            "Germany",
+            "German",
+            "BRD",
+            "Germans",
+            "Bundesrepublik Deutschland",
+            "Deutschland"
+        ],
+        "no": []
+    }
+}
